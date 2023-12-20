@@ -4,7 +4,7 @@ Beberapa service dalam repository ini masih dalam tahap pengembangan sehingga ak
 Service yang telah jalan di antaranya adalah SSH, Apache2, Monitoring.
 
 ## DAFTAR ISI
-1. [Instalasi dan Konfigurasi SSH Server]
+1. [Instalasi dan Konfigurasi SSH Server](#1-Instalasi-dan-Konfigurasi-SSH-Server)
 
 
 ## 1. Instalasi dan Konfigurasi SSH Server
